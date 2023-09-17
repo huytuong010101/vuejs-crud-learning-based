@@ -1,0 +1,11 @@
+{
+  "products": [],
+  "users": [
+    {
+      "id": "5YsFNN42B14VYHhpDyizn",
+      "name": "Administrator",
+      "email": "admin@gmail.com",
+      "password": 123456
+    }
+  ]
+}
