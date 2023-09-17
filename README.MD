@@ -10,7 +10,7 @@
 ### Build and run FE
 - `cd vue-client`
 - `npm install`
-- `npm rnu serve`
+- `npm run serve`
 
 ## Tech
 - Vue, Vuex
