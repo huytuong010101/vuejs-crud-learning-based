@@ -17,4 +17,5 @@
 - axios, sweetalert2
 
 ## Demo in a nutshell
+![Demo](./demo.gif)
 
